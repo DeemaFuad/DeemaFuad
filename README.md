@@ -23,7 +23,6 @@
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 📬 Email: your-email@example.com
-- 🧠 Portfolio: [GitHub Profile](https://github.com/DeemaFuad)
+- 💼 www.linkedin.com/in/deema-alsharif
+- 📬 Email: deemaalsharif18@gmail.com
 
