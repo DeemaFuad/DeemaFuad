@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm Deema!
 
-<!--
-**DeemaFuad/DeemaFuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science Graduate from the University of Jordan  
+💡 Passionate about backend development, accessible tech, and impactful software  
+💻 Currently building: [Ma3ak App](https://github.com/DeemaFuad/Ma3ak) – empowering blind university students  
+🚀 Always learning: Spring Boot, Java, REST APIs, and system design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Java, Spring Boot
+- JavaScript, TypeScript, React, React Native
+- MongoDB, MySQL
+- Git, GitHub, Postman, Figma
+
+---
+
+## 📌 Projects
+- 🔗 [Ma3ak](https://github.com/DeemaFuad/Ma3ak): Assistive mobile app for blind students  
+- 🔗 [barg](https://github.com/DeemaFuad/barg): Last-mile delivery platform admin dashboard  
+- 🔗 [SocialMediaClone](https://github.com/DeemaFuad/SocialMediaClone): MERN stack social media app
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- 📬 Email: your-email@example.com
+- 🧠 Portfolio: [GitHub Profile](https://github.com/DeemaFuad)
+
